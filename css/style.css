@@ -1,0 +1,1 @@
+/* Stylesheet by Stacey Marion, 2021, geog 575 exercise */
